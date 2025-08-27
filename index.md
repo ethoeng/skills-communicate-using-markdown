@@ -13,6 +13,10 @@ Javascript code
 var myVar = "Hello, world!";
 ```
 
-### Third Largest Header
+### Third Largest Header: Add a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
